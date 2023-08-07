@@ -31,25 +31,3 @@ Run the following command to run the application
 npm run serve
 ```
 The Application runs on **localhost:8080**
-
-
-
-## Application Design
-
-
-### Views and components
-
-**Customers** : This View Displays a list of customers and gets the data from a json from assets folder
-
-**CustomerDetails** : This View Displays the Details of a single customer and gets the data from a json from assets Folder
-
-**Display** : Display component displays the name of the selected customer in **Customers** View. **Display** is a child component of **Customers** View
-
-
-
-The Application has 2 endpoints
-
-**/customers** : The ties to *Customers* View
-
-**/customerdetails** : This ties to *CustomerDetails* View
-
