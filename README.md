@@ -1,4 +1,4 @@
-# simple-vue-app for learning Vue Js
+# simple-vue-app to learn Vue Js
 
 This Repo demonstrates the use of the following in vuejs
 1. Vue Routing
@@ -7,7 +7,7 @@ This Repo demonstrates the use of the following in vuejs
 4. Axios Library to make HTTP calls
 
 ## Feel free to use
- 
+
 ## Prerequisites
 
 #### Install NodeJS 
