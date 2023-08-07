@@ -10,15 +10,15 @@ This Repo demonstrates the use of the following in vuejs
 ## Prerequisites
 
 
-### Install NodeJS 
+#### Install NodeJS 
 
-### Install Vue Cli 
+#### Install Vue Cli 
 Install Vue Cli Node Package Globally using the following Command.
 
 ```bash
 npm install -g @vue/cli
 ```
-## Cloning and Running the Application
+### Cloning and Running the Application
 
 Clone the application to local
 
