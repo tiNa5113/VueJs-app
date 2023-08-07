@@ -1,4 +1,4 @@
-# simple-vue-app
+# simple-vue-app for 
 
 
 This Repo demonstrates the use of the following in vuejs
@@ -7,17 +7,12 @@ This Repo demonstrates the use of the following in vuejs
 3. Communication between Components ( Parent to child component )
 4. Axios Library to make HTTP calls
 
-The Application is deployed in
-
-
 ## Prerequisites
 
-### Install NodeJS [![Generic badge](https://img.shields.io/badge/Prerequisite-NodeJS-blue.svg)](https://nodejs.org/en/)
 
-Refer https://nodejs.org/en/ to install NodeJS
+### Install NodeJS 
 
-### Install Vue Cli [![Generic badge](https://img.shields.io/badge/Prerequisite-VueCli-blue.svg)](https://cli.vuejs.org/guide/)
-
+### Install Vue Cli 
 Install Vue Cli Node Package Globally using the following Command.
 
 ```bash
@@ -37,7 +32,10 @@ npm run serve
 ```
 The Application runs on **localhost:8080**
 
+
+
 ## Application Design
+
 
 ### Views and components
 
