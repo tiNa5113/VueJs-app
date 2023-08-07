@@ -1,5 +1,4 @@
-# simple-vue-app for 
-
+# simple-vue-app for learning Vue Js
 
 This Repo demonstrates the use of the following in vuejs
 1. Vue Routing
@@ -7,8 +6,9 @@ This Repo demonstrates the use of the following in vuejs
 3. Communication between Components ( Parent to child component )
 4. Axios Library to make HTTP calls
 
+## Feel free to use
+ 
 ## Prerequisites
-
 
 #### Install NodeJS 
 
